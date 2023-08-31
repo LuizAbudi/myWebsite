@@ -8,6 +8,14 @@ header {
     justify-content: space-between;
 }
 
+footer {
+    padding: 20px 0;
+    text-align: center;
+    border-top: 1px solid #e4e4e4;
+    margin-top: 100px;
+    font-family: 'Black Ops One', cursive;
+}
+
 .topnav {
     overflow: hidden;
     display: flex;
@@ -70,13 +78,6 @@ main {
 
 .gif {
     background-color: white;
-}
-
-footer {
-    padding: 20px 0;
-    text-align: center;
-    border-top: 1px solid #e4e4e4;
-    margin-top: 100px;
 }
 
 .copyright {
