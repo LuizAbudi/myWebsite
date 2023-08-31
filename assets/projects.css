@@ -73,7 +73,12 @@ p {
 
 
 @media (max-width: 1024px) {
-    .conteudo {
-        width: 700px;
+    .projects{
+        width:100%;
+    }
+}
+@media (max-width: 767px) {
+    .projects{
+        width:100%;
     }
 }
